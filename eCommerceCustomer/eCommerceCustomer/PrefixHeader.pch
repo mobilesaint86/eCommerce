@@ -1,0 +1,14 @@
+//
+//  PrefixHeader.pch
+//  eCommerceCustomer
+//
+//  Created by Albert Chen on 10/7/14.
+//  Copyright (c) 2014 Albert Chen. All rights reserved.
+//
+
+#ifndef eCommerceBuyer_PrefixHeader_pch
+#define eCommerceBuyer_PrefixHeader_pch
+
+#import <UIKit/UIKit.h>
+
+#endif

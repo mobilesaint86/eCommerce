@@ -1,0 +1,14 @@
+//
+//  Distribution.xcconfig
+//  eCommerceManager
+//
+//  Created by Albert Chen on 8/15/14.
+//  Copyright (c) 2014 Albert Chen. All rights reserved.
+//
+
+PARSE_APPLICATION_ID        =
+PARSE_CLIENT_KEY            =
+STRIPE_PUBLISHABLE_KEY      =
+CARDIO_APP_TOKEN            =
+CARDFLIGHT_API_KEY          = 
+CARDFLIGHT_ACCOUNT_TOKEN    =

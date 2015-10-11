@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D00393B1-ED39-4D81-9DD1-BEF038AD11DD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>eCommerceCustomer</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>30E821A781A82E425268847EA1FC76CF9AB840BE</key>
+		<string>https://bitbucket.org/dvidlui/ioscommerceapp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>eCommerceBuyer/eCommerceCustomer.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>30E821A781A82E425268847EA1FC76CF9AB840BE</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/dvidlui/ioscommerceapp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>30E821A781A82E425268847EA1FC76CF9AB840BE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>30E821A781A82E425268847EA1FC76CF9AB840BE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOSCommerceApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>

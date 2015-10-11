@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8A74AF8C-2F15-4C98-9E36-A3FCBB5D5E97</string>
+	<key>IDESourceControlProjectName</key>
+	<string>eCommerceManager</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>208E1DAE54FEA93FDDC14FF664C9534C574C7EF6</key>
+		<string>https://bitbucket.org/shuiming/iphone_productsmanager_buyer_app.git</string>
+		<key>30E821A781A82E425268847EA1FC76CF9AB840BE</key>
+		<string>https://bitbucket.org/dvidlui/ioscommerceapp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>eCommerceManager/eCommerceManager.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>208E1DAE54FEA93FDDC14FF664C9534C574C7EF6</key>
+		<string>../../../../zzeCommerce</string>
+		<key>30E821A781A82E425268847EA1FC76CF9AB840BE</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/dvidlui/ioscommerceapp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>30E821A781A82E425268847EA1FC76CF9AB840BE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>30E821A781A82E425268847EA1FC76CF9AB840BE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOSCommerceApp</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>208E1DAE54FEA93FDDC14FF664C9534C574C7EF6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>zzeCommerce</string>
+		</dict>
+	</array>
+</dict>
+</plist>
